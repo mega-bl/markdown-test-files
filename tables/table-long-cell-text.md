@@ -1,0 +1,4 @@
+| Short | Long |
+|---|---|
+| a | A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. A long cell text that wraps. |
+| b | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |

@@ -1,0 +1,4 @@
+- **[x]** bold marker
+- `[ ]` code marker
+- [[x]](https://example.com) link marker
+- <b>[x]</b> tag marker

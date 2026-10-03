@@ -1,0 +1,2 @@
+- [ ] **bold** task with `code` and a [link](https://mega.io)
+- [x] ~~struck~~ done task
