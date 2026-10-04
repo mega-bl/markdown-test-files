@@ -1,4 +1,4 @@
-* not italic because of the space *
+a * not italic because of the space *
 
 *italic*.
 

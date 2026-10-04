@@ -2,7 +2,7 @@
 
 Each file name says what the case is. Folders group the cases by topic.
 
-- `overview`: start here. One file with every feature.
+- `overview`: start here. Two short files that show every block kind.
 - `commonmark-spec` and `gfm-spec`: one file per example of the CommonMark and GFM specs.
   The number is the example number in the spec text.
 - `edge-cases/huge-single-blocks`: one block of 1 MB or more.

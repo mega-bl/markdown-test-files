@@ -1,4 +1,4 @@
-The preview shows alt text unless the demo menu turns on remote images.
+The PNG and the JPEG show when remote images load. The SVG and the broken URL show their alt text.
 
 ![A PNG from GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 

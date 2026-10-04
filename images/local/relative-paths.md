@@ -1,4 +1,4 @@
-The preview shows alt text unless the demo menu turns on local images.
+Four images, each in its own paragraph. All four show when local images load.
 
 ![Wide image](assets/wide.png)
 
