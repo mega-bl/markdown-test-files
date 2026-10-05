@@ -11,4 +11,5 @@ Each file name says what the case is. Folders group the cases by topic.
 - `preview/selection`: cases for the block selection in the preview. Each file lists the steps to try.
 
 Relative links and images resolve against the folder of each file.
-Images show only their alt text unless the app loads them.
+Images show only their alt text unless the app loads them. The demo app loads local images,
+and remote images for the files in `images/remote`.
